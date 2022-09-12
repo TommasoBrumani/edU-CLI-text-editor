@@ -14,7 +14,7 @@ Commands are composed of a single letter, optionally preceded by one or two inte
 
 The interface is inspired by that of the traditional `ed` editor.
 
-## Available Commands
+### Available Commands
 In some commands, the integers that precede the letter represent <b>row indexes</b>.
 
 The convention is that <b>ind1</b> <= <b>ind2</b>, and the <b>round brackets</b> are used for ease of reading, but are not included in the real commands:
