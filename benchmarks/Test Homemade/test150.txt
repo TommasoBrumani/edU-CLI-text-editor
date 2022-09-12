@@ -1,0 +1,751 @@
+1,4d
+2u
+1r
+1,6p
+1,14d
+1,1d
+1,11c
+Center and stop. Enhance 34 to 36. Pan right and pull back. Stop.
+Enhance 34 to 46. Pull back. Wait a minute, go right, stop. Enhance 57
+to 19. Track 45 left. Stop. Enhance 15 to 23. Give me a hard copy
+right there.
+[Market]
+Deckard: Fish?
+Lady: I think it was manufactured. Look. Finest quality. Superior
+workmanship. There is a maker's serial number 9906947-XB71.
+Interesting. Not fish. Snake scale.
+Deckard: Snake?
+Lady: Try Abdul ben Hassan. He make this snake.
+.
+2,5p
+8,18d
+7,27c
+Deckard (voice-over): I'd quit because I'd had a belly full of
+killing. But then I'd rather be a killer than a victim. And that's
+exactly what Bryant's threat about little people meant. So I hooked in
+once more, thinking that if I couldn't take it, I'd split later. I
+didn't have to worry about Gaff. He was brown-nosing for a promotion,
+so he didn't want me back anyway.
+[inside the Tyrell building--looks faintly Egyptian]
+Rachael: Do you like our owl?
+Deckard: It's artificial?
+Rachael: Of course it is.
+Deckard: Must be expensive.
+Rachael: Very. I'm Rachael.
+Deckard: Deckard.
+Rachael: It seems you feel our work is not a benefit to the public.
+Deckard: Replicants are like any other machine. They're either a
+benefit or a hazard. If they're a benefit, it's not my problem.
+Rachael: May I ask you a personal question?
+Deckard: Sure.
+Rachael: Have you ever retired a human by mistake?
+Deckard: No.
+Rachael: But in your position that is a risk?
+.
+21,26c
+Roy: Then a repressive protein that blocks the operating cells.
+Tyrell: Wouldn't obstruct replication, but it does give rise to an
+error in replication so that the newly formed DNA strand carries the
+mutation and you've got a virus again. But, uh, this-- all of this is
+academic. You were made as well as we could make you.
+Roy: But not to last.
+.
+27,37p
+16,25c
+twenty-three people and jumped a shuttle. An aerial patrol spotted the
+ship off the coast. No crew, no sight of them. Three nights ago they
+tried to break into Tyrell Corporation. One of them got fried running
+through an electrical field. We lost the others. On the possibility
+they might try to infiltrate his employees, I had Holden go over and
+run Voight-Kampff tests on the new workers. Looks like he got himself
+one.
+Holden (video): So you look down you see a tortoise. It's crawling
+toward you.
+Leon (video): Tortoise, what's that?
+.
+3,21c
+Leon (video): Tortoise, what's that?
+Holden (video): Know what a turtle is?
+Leon (video): Of course.
+Holden (video): Same thing.
+Leon (video): I've never seen a turtle.
+Deckard: I don't get it. What do they risk coming back to earth for?
+That's unusual. Why--what do they want from the Tyrell Corporation?
+Bryant: Well you tell me pal, that's what you're here for.
+Deckard: [funny look]. [pause] What's this?
+Bryant: Nexus 6. Roy Batty. Incept date 2016. Combat model. Optimum
+self-sufficiency. Probably the leader. This is Zhora. She's trained
+for an off-world kick-murder squad. Talk about beauty and the beast,
+she's both. The fourth skin job is Pris. A basic pleasure model. The
+standard item for military clubs in the outer colonies. They were
+designed to copy human beings in every way except their emotions. The
+designers reckoned that after a few years they might develop their own
+emotional responses. You know, hate, love, fear, envy. So they built
+in a fail-safe device.
+Deckard: Which is what?
+.
+22,41c
+file- section, new employees, six days.
+Holden: (hears knock on door) Come in. (pause) Sit down.
+Leon: Care if I talk? I'm kind of nervous when I take tests.
+Holden: Uh, just please don't move.
+Leon: Oh, sorry. I already had an IQ test this year, I don't think
+I've ever had one of these-
+Holden: Reaction time is a factor in this, so please pay attention.
+Now, answer as quickly as you can.
+Leon: Sure.
+Holden: One-one-eight-seven at Hunter-Vasser.
+Leon: That's the hotel.
+Holden: What?
+Leon: Where I live.
+Holden: Nice place?
+Leon: Yeah, sure I guess--that part of the test?
+Holden: No, just warming you up, that's all.
+Leon: Oh. It's not fancy or anything.
+Holden: You're in a desert, walking along in the sand when all of the
+sudden-
+Leon: Is this the test now?
+.
+5u
+3r
+5u
+4r
+5u
+5r
+1u
+27,28p
+22,29c
+jurisdiction, you--
+Roy: I want more life, fucker.
+Tyrell: The facts of life. To make an alteration in the evolvment of
+an organic life system is fatal. A coding sequence cannot be revised
+once it's been established.
+Roy: Why not?
+Tyrell: Because by the second day of incubation, any cells that have
+undergone reversion mutations give rise to revertant colonies like
+.
+18,24p
+10,22d
+5r
+3u
+2u
+14,23d
+4r
+1u
+17,31c
+newspaper]
+Overhead blimp: A new life awaits you in the off-world colonies, the
+chance to begin again in a golden land of opportunity and adventure.
+New climate...
+Overhead blimp: A new life awaits you in the off-world colonies, the
+chance to begin again in a golden land of opportunity and adventure.
+New climate, recreation facilities...
+Deckard (voice-over): They don't advertise for killers in the
+newspaper. That was my profession. Ex-cop, ex-bladerunner, ex-killer.
+Overhead blimp: Use your new friend as a
+[Deckard walks over to Chinese carry-out stand]
+Deckard: Give me four. No, two, two, four. And noodles.
+Deckard (voice over): Sushi, that's what my ex-wife called me. Cold
+fish.
+Gaff: Hey, idi-wa.
+.
+27,30p
+15,21c
+translator. I knew the lingo, every good cop did. But I wasn't going
+to make it easier for him.
+Spinner: ...now on glide path, on course, over the landing threshold.
+[Bryant's office]
+Bryant: Hiya Deck.
+Deckard: Bryant.
+Bryant: You wouldn't have come if I just asked you to. Sit down pal.
+.
+31,35p
+12,16p
+14,18c
+things that come in to your mind about: your mother.
+Leon: My mother?
+Holden: Yeah.
+Leon: Let me tell you about my mother. (shot fired)
+[cut to overhead shot of city, zooms in on Deckard, reading a
+.
+30,32p
+28,36p
+12,14p
+12,18p
+3,11d
+4r
+15,21d
+5,12d
+3,7p
+4,19c
+would have helped us.
+[To Tyrell's house.]
+Tyrell: 66 thousand Prosser and Ankovich. Hmmm.. Trade. Trade at--
+Computer: New entry. A Mr. J. F. Sebastian. 1-6-4-1-7.
+Tyrell: At this hour? What can I do for you Sebastian.
+Sebastian: Queen to Bishop 6. Check.
+Tyrell: Nonsense. Just a moment. Mmmm. Queen to Bishop 6. Ridiculous.
+Queen to Bishop 6. Hmmm... Knight takes Queen. (pause) What's on your
+mine Sebastian. What are you thinking about.
+Roy: (whispered) Bishop to King 7.
+Sebastian: Bishop to King 7. Check mate, I think.
+Tyrell: Quite a brainstorm, uh, Sebastian. Milk and cookies kept you
+awake, huh? Lets discuss this. You better come up, Sebastian.
+Sebastian: Mr. Tyrell. I-- I brought a friend.
+Tyrell: I'm surprised you didn't come here sooner.
+Roy: It's not an easy thing to meet your maker.
+.
+16,25c
+Tyrell: It took more than a hundred for Rachael, didn't it?
+Deckard: She doesn't know?!
+Tyrell: She's beginning to suspect, I think.
+Deckard: Suspect? How can it not know what it is?
+Tyrell: Commerce, is our goal here at Tyrell. More human than human is
+our motto. Rachael is an experiment, nothing more. We began to
+recognize in them strange obsessions. After all they are emotional
+inexperienced with only a few years in which to store up the
+experiences which you and I take for granted. If we give them the past
+we create a cushion or pillow for their emotions and consequently we
+.
+3,3p
+10,18c
+[Lots o' background noise from the toys... Decakrd searches... He
+takes off Pris's veil. Pris attacks, does the ole "head squishem
+between the legs trick". Deckard blows some chunks into Pris...
+again... again. Roy arrives. Deckard fires, but misses.]
+Roy: Not very sporting to fire on an unarmed opponent. I thought you
+were supposed to be good. Aren't you the good man? Come on Deckard.
+Show me what you're made of.
+[Roy breaks through wall.]
+Roy: Proud of yourself, little man? This is for Zhora.
+.
+2r
+1u
+5r
+4r
+3u
+4u
+5u
+2r
+3u
+11r
+16,31d
+12,15p
+9,14c
+Deckard: Rachael? Rachael? Rachael?
+[Deckard uncovers Rachael.]
+Deckard: Do you love me?
+Rachael: I love you.
+Deckard: Do you trust me?
+Rachael: I trust you.
+.
+4,13d
+1u
+3r
+5,8p
+1,6p
+3r
+4r
+5u
+3u
+4u
+2u
+2r
+4u
+2r
+11r
+6,8c
+Deckard: She doesn't know?!
+Tyrell: She's beginning to suspect, I think.
+Deckard: Suspect? How can it not know what it is?
+.
+13,25d
+3,11p
+8,13p
+2,7p
+10,17c
+Replicants were used Off-world as slave labor, in the hazardous exploration and
+colonization of other planets.
+After a bloody mutiny by a NEXUS 6 combat team in an Off-world colony,
+Replicants were declared illegal on earth - under penalty of death.
+Special police squads - BLADE RUNNER UNITS - had orders to shoot to kill, upon
+detection, any trespassing Replicant.
+This was not called execution.
+It was called retirement."
+.
+14,22p
+3,8c
+Deckard: I want you.
+Rachael: I want you.
+Deckard: Again.
+Rachael: I want you. Put your hands on me.
+[Sebastian's apartment.]
+Sebastian: Whatcha doing?
+.
+10,16p
+16,34c
+[Fight]
+Roy: Yeah, that's the spirit.
+[Deckard hits Roy with pipe.]
+Roy: That hurt. That was irrational. Not to mention, unsportsman like.
+Ha ha ha. Where are you going?
+[Deckard does some amazing climbing, then jumps to next building. Roy
+follows, after tossing a bird.]
+Roy: Quite an experience to live in fear, isn't it? That's what it is
+to be a slave.
+[Deckard falls, Roy catches him.]
+Roy: I've seen things you people wouldn't believe. Attack ships on
+fire off the shoulder of Orion. I watched C-beams glitter in the
+darkness at Tan Hauser Gate. All those moments will be lost in time
+like tears in rain. Time to die.
+Deckard (voice-over): I don't know why he saved my life. Maybe in
+those last moments he loved life more than he ever had before. Not
+just his life, anybody's life, my life. All he'd wanted were the same
+answers the rest of us want. Where did I come from? Where am I going?
+How long have I got? All I could do was sit there and watch him die.
+.
+26,33p
+4,13p
+24,26d
+9,10c
+Tyrell Corporation. There's some of me in you. Show me something.
+Roy: Like what?
+.
+10,17p
+8,24c
+Deckard: I don't know.
+Leon: My birthday is April 10, 2017. How long do I live?
+Deckard: Four years.
+Leon: More than you. Painful to live in fear, isn't it? Nothing is
+worse than having an itch you can never scratch.
+Deckard: Oh, I agree.
+Leon: Wake up! Time to die.
+[Rachael pops some lead into Leon's cranium]
+[Back at Deckard apartment]
+Deckard: Shakes? Me too. I get 'em bad. It's part of the business.
+Rachael: I'm not in the business. I am the business.
+[Deckard gurgles blood.]
+Rachael: What if I go north. Disappear. Would you come after me? Hunt
+me?
+Deckard: No. No, I wouldn't. I owe you one. But somebody would.
+Rachael: Deckard? You know those files on me? The incept dates, the
+longevity, those things. You saw them?
+.
+23,33p
+20,20c
+wasp crawling on your arm.
+.
+9,9d
+23,31p
+30,47c
+for me. It's a test, designed to provoke an emotional response.
+(pause) Shall we continue? Describe in single words, only the good
+things that come in to your mind about: your mother.
+Leon: My mother?
+Holden: Yeah.
+Leon: Let me tell you about my mother. (shot fired)
+[cut to overhead shot of city, zooms in on Deckard, reading a
+newspaper]
+Overhead blimp: A new life awaits you in the off-world colonies, the
+chance to begin again in a golden land of opportunity and adventure.
+New climate...
+Overhead blimp: A new life awaits you in the off-world colonies, the
+chance to begin again in a golden land of opportunity and adventure.
+New climate, recreation facilities...
+Deckard (voice-over): They don't advertise for killers in the
+newspaper. That was my profession. Ex-cop, ex-bladerunner, ex-killer.
+Overhead blimp: Use your new friend as a
+[Deckard walks over to Chinese carry-out stand]
+.
+19,23p
+1r
+2r
+4r
+4u
+5u
+3r
+2r
+5r
+4u
+1r
+15,22p
+5r
+5r
+5u
+21,26p
+30,45d
+20,31c
+brother snuck into an empty building through a basement window--you
+were gonna play doctor. He showed you his, but when it got to be your
+turn you chickened and ran. Remember that? You ever tell anybody that?
+Your mother, Tyrell, anybody? You remember the spider that lived in a
+bush outside your window: orange body, green legs. Watched her build a
+web all summer. Then one day there was a big egg in it. The egg
+hatched--
+Rachael: The egg hatched, and a hundred baby spiders came out. And
+they ate her.
+Deckard: Implants! Those aren't your memories. They're somebody
+else's. They're Tyrell's niece's. (pause) Okay, bad joke. I made a bad
+joke. You're not a replicant. Go home, okay? No really, I'm sorry. Go
+.
+15,20c
+your help, but you're not helping.
+Leon: What do you mean I'm not helping?
+Holden: I mean, you're not helping. Why is that Leon? (pause) They're
+just questions, Leon. In answer to your query, they're written down
+for me. It's a test, designed to provoke an emotional response.
+(pause) Shall we continue? Describe in single words, only the good
+.
+2r
+4r
+3r
+2r
+3r
+3r
+3u
+5,15c
+Lady: I think it was manufactured. Look. Finest quality. Superior
+workmanship. There is a maker's serial number 9906947-XB71.
+Interesting. Not fish. Snake scale.
+Deckard: Snake?
+Lady: Try Abdul ben Hassan. He make this snake.
+[Abdul Hassan's]
+Deckard: Abdul Hassan? I'm a police officer, I'd like to ask you a few
+questions. Artificial snake license XB71, that's you? This is your
+work, huh? Who did you sell it to?
+Abdul: My work? Not too many could afford such quality.
+Deckard: How many?
+.
+26,28p
+27,41c
+newspaper]
+Overhead blimp: A new life awaits you in the off-world colonies, the
+chance to begin again in a golden land of opportunity and adventure.
+New climate...
+Overhead blimp: A new life awaits you in the off-world colonies, the
+chance to begin again in a golden land of opportunity and adventure.
+New climate, recreation facilities...
+Deckard (voice-over): They don't advertise for killers in the
+newspaper. That was my profession. Ex-cop, ex-bladerunner, ex-killer.
+Overhead blimp: Use your new friend as a
+[Deckard walks over to Chinese carry-out stand]
+Deckard: Give me four. No, two, two, four. And noodles.
+Deckard (voice over): Sushi, that's what my ex-wife called me. Cold
+fish.
+Gaff: Hey, idi-wa.
+.
+3,11d
+28,31p
+1,19c
+attention. Now, answer as quickly as you can.
+Leon (video): Sure.
+Holden (video): One-one-eight-seven at Hunter-Vasser.
+Leon (video): Yeah, That's the hotel.
+Holden (video): What?
+Leon (video): Where I live.
+Holden (video): Nice place?
+Leon (video): Yeah, sure I guess--that part of the test?
+Holden (video): No--
+[Deckard and Gaff inspect the apartment. Deckard finds a scale in the
+bathtub and some family photos. Gaff watches quietly, folding an
+origami statue of a man with an erection.]
+Deckard (voice-over): I didn't know whether Leon gave Holden a legit
+address. But it was the only lead I had, so I checked it out. Whatever
+was in the bathtub was not human. Replicants don't have scales. And
+family photos? Replicants didn't have families either.
+[Leon meets Roy outside of phonebooth]
+Roy: Time enough. (pause) Did you get your precious photos?
+Leon: Someone was there.
+.
+10,19c
+Leon: But how come I'd be there?
+Holden: Maybe you're fed up, maybe you want to be by yourself, who
+knows? You look down and you see a tortoise, Leon, it's crawling
+toward you-
+Leon: Tortoise, what's that?
+Holden: Know what a turtle is?
+Leon: Of course.
+Holden: Same thing.
+Leon: I've never seen a turtle. (pause) But I understand what you
+mean.
+.
+2,6d
+14,18p
+11,12c
+Taffy Lewis is on the line. Why don't you come on down here and have a
+drink?
+.
+24,30p
+22,27c
+Roy: Similar problems.
+Pris: Accelerated decrepitude.
+Sebastian: I don't know much about biomechanics, Roy, I wish I did.
+Roy: If we don't find help soon, Pris hasn't got long to live. We
+can't allow that. (pause) Is he good?
+Sebastian: Who?
+.
+8,10d
+21,24p
+22,31p
+14,15c
+hell, go to heaven.
+[Fight]
+.
+7,10d
+4,6d
+4,14p
+14,28c
+Deckard: Yes, ma'am. There's been some reports that the management has
+been taking liberties with the artists in this place.
+Zhora: I don't know nothing about it.
+Deckard: Have you felt yourself to be exploited in any way?
+Zhora: How do you mean, exploited?
+Deckard: Well, like to get this job. I mean, did you do, or-- or were
+you asked to do anything that was lewd or unsavory or otherwise, uh,
+repulsive to your person, huh?
+Zhora: Ha. Are you for real?
+Deckard: Oh yeah. I'd like to check your dressing room if I may.
+Zhora: For what?
+Deckard: For, uh, for holes.
+Zhora: Holes?
+Deckard: You'd be surprised what a guy'd go through to get a glimpse
+of a beautiful body.
+.
+3,7p
+2,17c
+Roy: Morphology, longevity, incept dates.
+Chew: Don't know -- I, I don't know such stuff. I just do eyes. Just
+eyes -- Just genetic design of eyes -- just eyes. You Nexus, huh? I
+design your eyes.
+Roy: Chew, if only you could see what I've seen with your eyes.
+Questions.
+Chew: I don't know answers.
+Roy: Who does?
+Chew: Tyrell. He -- He knows everything.
+Roy: Tyrell corporation?
+Chew: He big boss. He genius. He design your mind, your brain.
+Roy: Ah, smart.
+Chew: Cold.
+Roy: Not an easy man to see--
+Chew: Very cold.
+Roy: I guess?
+.
+4,21c
+Spinner: climb and maintain 4000 ... when approaching pad six ...
+Deckard (voice-over): The charmer's name was Gaff. I'd seen him
+around. Bryant must have upped him to the Blade Runner unit. That
+gibberish he talked was city-speak, guttertalk, a mishmash of
+Japanese, Spanish, German, what have you. I didn't really need a
+translator. I knew the lingo, every good cop did. But I wasn't going
+to make it easier for him.
+Spinner: ...now on glide path, on course, over the landing threshold.
+[Bryant's office]
+Bryant: Hiya Deck.
+Deckard: Bryant.
+Bryant: You wouldn't have come if I just asked you to. Sit down pal.
+C'mon don't be an asshole Deckard. I've got four skin jobs walking the
+streets.
+Deckard (voice-over): Skin jobs, that's what Bryant called replicants.
+In history books he was the kind of cop that used to call black men
+niggers.
+Bryant: They jumped a shuttle off world killed the crew and
+.
+19,37c
+Leon (video): I've never seen a turtle.
+Deckard: I don't get it. What do they risk coming back to earth for?
+That's unusual. Why--what do they want from the Tyrell Corporation?
+Bryant: Well you tell me pal, that's what you're here for.
+Deckard: [funny look]. [pause] What's this?
+Bryant: Nexus 6. Roy Batty. Incept date 2016. Combat model. Optimum
+self-sufficiency. Probably the leader. This is Zhora. She's trained
+for an off-world kick-murder squad. Talk about beauty and the beast,
+she's both. The fourth skin job is Pris. A basic pleasure model. The
+standard item for military clubs in the outer colonies. They were
+designed to copy human beings in every way except their emotions. The
+designers reckoned that after a few years they might develop their own
+emotional responses. You know, hate, love, fear, envy. So they built
+in a fail-safe device.
+Deckard: Which is what?
+Bryant: Four year life span.
+Bryant: Now there's a Nexus 6 over at the Tyrell Corporation. I want
+you to go put the machine on it.
+Deckard: And if the machine doesn't work?
+.
+25,27c
+Deckard: Arrggh.
+Roy: This is for Pris.
+Deckard: Arrgghh.
+.
+2r
+5u
+2u
+5r
+3u
+1r
+4u
+2r
+3u
+8r
+5,6p
+20,31d
+2,15c
+can't allow that. (pause) Is he good?
+Sebastian: Who?
+Roy: Your opponent.
+Sebastian: Oh, Dr. Tyrell? I've only beaten him once in chess. He's a
+genius. He designed you.
+Roy: Maybe he could help.
+Sebastian: I'd be happy to mention it to him.
+Roy: Better if I talk to him in person. But I understand he's a sort
+of hard man to get to.
+Sebastian: Yes, very.
+Roy: Will you help us?
+Sebastian: I can't.
+Pris: We need you Sebastian. You're our best and only friend.
+Roy: (Goofy chinese accent) We're so happy you found us.
+.
+11,19d
+5r
+3u
+2u
+5r
+5u
+5r
+1r
+1r
+5r
+2u
+22,29c
+Deckard (voice-over): The report would be routine retirement of a
+replicant which didn't make me feel any better about shooting a woman
+in the back. There it was again. Feeling, in myself. For her, for
+Rachael.
+Deckard: Deckard. B-263-54.
+Street thing: Move on...
+Lady: Yeah what do you want?
+Deckard: Tsing tao. This enough?
+.
+12,20d
+6,16c
+passengers. They found the shuttle drifting off the coast two weeks
+ago so we know they're around.
+Deckard: Embarrassing.
+Bryant: No sir. Not embarrassing, because no one's ever going to find
+out they're down here. Because you're going to spot them, and you're
+going to air them out.
+Decakrd: I don't work here anymore. Give it to Holden, he's good.
+Bryant: I did. He can breath okay as long as nobody unplugs him. He's
+not good enough, not as good as you. I need you, Deck. This is a bad
+one, the worse yet. I need the old bladerunner, I need your magic.
+Deckard: I was quit when I came in here. I'm twice as quit now.
+.
+1,1p
+15,20p
+3u
+1r
+2u
+22,23c
+[Tyrell screams as his eyes are gouged out.]
+[On the street...]
+.
+22,30p
+11,17d
+3,22c
+Intercom: Next subject, Kowalski, Leon, engineer, waste-disposal,
+file- section, new employees, six days.
+Holden: (hears knock on door) Come in. (pause) Sit down.
+Leon: Care if I talk? I'm kind of nervous when I take tests.
+Holden: Uh, just please don't move.
+Leon: Oh, sorry. I already had an IQ test this year, I don't think
+I've ever had one of these-
+Holden: Reaction time is a factor in this, so please pay attention.
+Now, answer as quickly as you can.
+Leon: Sure.
+Holden: One-one-eight-seven at Hunter-Vasser.
+Leon: That's the hotel.
+Holden: What?
+Leon: Where I live.
+Holden: Nice place?
+Leon: Yeah, sure I guess--that part of the test?
+Holden: No, just warming you up, that's all.
+Leon: Oh. It's not fancy or anything.
+Holden: You're in a desert, walking along in the sand when all of the
+sudden-
+.
+20,22p
+5,20c
+Deckard: I want you.
+Rachael: I want you.
+Deckard: Again.
+Rachael: I want you. Put your hands on me.
+[Sebastian's apartment.]
+Sebastian: Whatcha doing?
+Pris: Sorry, just peaking.
+Sebastian: Oh.
+Pris: How do I look?
+Sebastian: You look better.
+Pris: Just better?
+Sebastian: Well, you look beautiful.
+Pris: Thanks. (pause) How old are you?
+Sebastian: Twenty-five.
+Pris: What's you problem?
+Sebastian: Methuselah's syndrome.
+.
+9,23d
+4,13d
+1,14d
+1,11p
+1,8p
+1,2c
+were gonna play doctor. He showed you his, but when it got to be your
+turn you chickened and ran. Remember that? You ever tell anybody that?
+.
+1,4p
+1,3d
+1,8d
+1,6p
+4r
+1,11p
+1,9d
+1,12c
+workmanship. There is a maker's serial number 9906947-XB71.
+Interesting. Not fish. Snake scale.
+Deckard: Snake?
+Lady: Try Abdul ben Hassan. He make this snake.
+[Abdul Hassan's]
+Deckard: Abdul Hassan? I'm a police officer, I'd like to ask you a few
+questions. Artificial snake license XB71, that's you? This is your
+work, huh? Who did you sell it to?
+Abdul: My work? Not too many could afford such quality.
+Deckard: How many?
+Abdul: Very few.
+Deckard: How few? Look my friend.
+.
+9,10c
+Rachael: I love you.
+Deckard: Do you trust me?
+.
+5,8c
+[Deckard gurgles blood.]
+Rachael: What if I go north. Disappear. Would you come after me? Hunt
+me?
+Deckard: No. No, I wouldn't. I owe you one. But somebody would.
+.
+1u
+4u
+1,9d
+1,2d
+1,4p
+1,16d
+1,10p
+1r
+3r
+2u
+4u
+1r
+2r
+1,10p
+1,8p
+1,1p
+1,13d
+q
