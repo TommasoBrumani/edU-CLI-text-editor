@@ -2,7 +2,9 @@
 ## Overview
 The program is a `C` implementation of a basic <b>command line text editor</b>, capable of editing rows of text and presenting 'undo' and 'redo' functions.
 
+### License
 The project was carried out as part of the 2019/2020 '<b>Algorithms and Computer Science Principles</b>' course at <b>Politecnico of Milano</b>, where it was graded on a variety of different test benchmarks in terms of both memory usage and performance, and was awarded a score of 30/30 cum Laude.
+
 ## Project Specifications
 The project consists of implementing a basic text editor, which considers documents as sequences of rows of arbitrary length, numbered starting from '1'.
 
